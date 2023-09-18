@@ -1,1 +1,12 @@
 # Rainfall Prediction
+
+Abstract:
+
+Rainfall is the most crucial process of nature. All the living being rely on water and rainfall is a process that is responsible for the continual process of water cycle. Many human activities like agriculture are dependent on rainfall, especially in a country like India. Thus, it is very important and necessary to predict the rainfall patterns to estimate the flooding and drowning events. Application of data mining algorithms is the best way to forecast rainfall. These algorithms predict rainfall numerically. There are two kinds of approaches for it. They are empirical and dynamic methods. Empirical approach consists of evaluating historical data, identifying the pattern or relationship between the given atmospheric variables that determine rainfall. It includes many kinds of clustering and classification techniques. Dynamic approach consists of dynamically changing training samples whose results can be applied to other large samples of data. In this paper we will se how rainfall fall can be predicted by a classification method with good accuracy.
+
+Introduction:
+
+Knowledge of rainfall patterns help in drought and flood management. Considering suitable attributes for prediction of rainfall is not an easy task. The intensity and frequency estimation is very useful for an agriculture based country like India, especially in the coastal regions in the states of Karnataka, Kerala, Andhra Pradesh, Orissa and West Bengal.
+Data mining is a process of mining data from a database with certain techniques and process. It consists of identifying the pattern in the given data, called training sample, or analysing a set of already classified objects, whose results can be used to predict the results of other data with missing attributes, called test sample.
+It aims at accurate analysis of data and generation of precise results. This analysis and and prediction of data in data mining can be done by many methods like classification, clustering, regression. Rainfall prediction can be done by algorithms like, Artificial Neural Networks, fuzzy logic, decision tree as they provide a methodology to classify and predict data better than the traditional statistical techniques. These algorithms observe the relationship between the attributes in the dataset. In this paper values for atmospheric variables like pressure, temperature and humidity were considered for a year.
+
